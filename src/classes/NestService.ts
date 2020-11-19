@@ -237,6 +237,7 @@ export default class NestService extends TypescriptService {
      * @returns {void}
      */
     postInit(): void {
+        super.postInit();
         this.createNestCLIJSON();
     }
 
