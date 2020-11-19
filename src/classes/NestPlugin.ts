@@ -15,7 +15,7 @@ import { NestService } from '..';
  * @class GraphQLPlugin
  */
 export default class NestPlugin extends ServicePlugin {
-    static NAME = 'nestjs';
+    static NAME = 'nest';
     static LABEL = 'Nest.js';
 
     /**

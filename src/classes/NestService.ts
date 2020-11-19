@@ -33,7 +33,7 @@ import { writeFileSync } from 'fs';
  * @class NestService
  */
 export default class NestService extends TypescriptService {
-    static NAME = 'nestjs';
+    static NAME = 'nest';
     static DIRNAME: string = __dirname;
 
     /**
