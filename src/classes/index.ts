@@ -6,5 +6,5 @@
  * Author: Max Koon (maxk@nix2.io)
  */
 
-export * from './classes';
-export { default as getPlugin } from './getPlugin';
+export { default as NestService } from './NestService';
+export { default as NestPlugin } from './NestPlugin';
