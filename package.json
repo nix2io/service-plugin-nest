@@ -33,6 +33,6 @@
         "dist"
     ],
     "dependencies": {
-        "@nix2/service-plugin-typescript": "^1.0.4"
+        "@nix2/service-plugin-typescript": "^1.0.6"
     }
 }

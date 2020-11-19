@@ -39,10 +39,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@nix2/service-core@1.0.10":
-  version "1.0.10"
-  resolved "https://registry.yarnpkg.com/@nix2/service-core/-/service-core-1.0.10.tgz#8658d630d2a3ce1652c4ace8b7ea63809975a2cb"
-  integrity sha512-2YlIPake3husbxdfUcFxPEnNG7fIz6N6EPsAbPUgkJEC7j5+RhGSZ/kb6yTcnvpdnhfXh/sL3P0RCE2WqWSYAA==
+"@nix2/service-core@1.0.11":
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/@nix2/service-core/-/service-core-1.0.11.tgz#59977714afe2f4f6965a5e52f0e7005ceab02f39"
+  integrity sha512-Sp13O2/JhOv//JU1BmvPP+iapGqhnzqB0TWyFnLRYxCEU0NXGdU5uVAurIF78xBsV6AICDWVpQfg7yOHwwBkKQ==
   dependencies:
     axios "^0.21.0"
     dotenv "^8.2.0"
@@ -51,12 +51,12 @@
     js-yaml "^3.14.0"
     semver "^7.3.2"
 
-"@nix2/service-plugin-typescript@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@nix2/service-plugin-typescript/-/service-plugin-typescript-1.0.4.tgz#3cffefa33d14e64500f106932354208213acc3be"
-  integrity sha512-Y4LegBG9j7Y5lB1RYE6H92m23NgK169G3D0ONIzLAupoyFVAfLTfw7i0uRnL+gy13YQEW0gePCqOvIh8AwKHxQ==
+"@nix2/service-plugin-typescript@^1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@nix2/service-plugin-typescript/-/service-plugin-typescript-1.0.6.tgz#394c4bda0ac0462325a8951ae295e25a58b30e56"
+  integrity sha512-Ie4B0PqVUoIghYlcbeHp9IMAbJvlahIaV1ylU1CTn11W5ly78XKT5oLQ8BLcCnNnzD/14aMbHyywOy1FSvOi/w==
   dependencies:
-    "@nix2/service-core" "1.0.10"
+    "@nix2/service-core" "1.0.11"
 
 "@nodelib/fs.scandir@2.1.3":
   version "2.1.3"
