@@ -58,10 +58,10 @@
     js-yaml "^3.14.0"
     semver "^7.3.2"
 
-"@nix2/service-plugin-typescript@^1.0.6":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@nix2/service-plugin-typescript/-/service-plugin-typescript-1.0.6.tgz#394c4bda0ac0462325a8951ae295e25a58b30e56"
-  integrity sha512-Ie4B0PqVUoIghYlcbeHp9IMAbJvlahIaV1ylU1CTn11W5ly78XKT5oLQ8BLcCnNnzD/14aMbHyywOy1FSvOi/w==
+"@nix2/service-plugin-typescript@^1.0.7":
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/@nix2/service-plugin-typescript/-/service-plugin-typescript-1.0.7.tgz#1a7023103b948f12f47d26eef307cc41ef9e7f23"
+  integrity sha512-ICtXPTza9ss+ptucy8VK5Q0SGZdlvABeylJ5K5T4kSG2DhXhRvoV/siSss3ncj1EA5vJSQIs7Gv5RCTlRJs9EA==
   dependencies:
     "@nix2/service-core" "1.0.11"
 
